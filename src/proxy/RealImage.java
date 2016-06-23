@@ -1,7 +1,7 @@
 package proxy;
 
 public class RealImage implements Image{
-
+//from vignesh in proxy file
 	String filename;
 	public RealImage(String filename)
 	{
