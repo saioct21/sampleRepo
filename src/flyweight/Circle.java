@@ -1,5 +1,5 @@
 package flyweight;
-
+//This is sample commit for master-vig
 public class Circle implements Shape{
 
 	String color;
